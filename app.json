@@ -4,9 +4,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/ujicobake102/REACT-DOCKER-HEROKU",
-  "success_url": "https://github.com/ujicobake102/REACT-DOCKER-HEROKU",
-  "website": "https://github.com/ujicobake102/REACT-DOCKER-HEROKU",
+  "repository": "https://github.com/trytrykok/joojoo",
+  "success_url": "https://github.com/trytrykok/joojoo",
+  "website": "https://github.com/trytrykok/joojoo",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
