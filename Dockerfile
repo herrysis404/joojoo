@@ -17,7 +17,7 @@ RUN pip3 install -r requirements.txt
 
 FROM python:3.8-slim AS execute
 WORKDIR /app
-
+RUN chmod 777 /app
 ENV PATH="/app/venv/bin:$PATH" VIRTUAL_ENV="/app/venv" LANG=C.UTF-8 DEBIAN_FRONTEND=noninteractive
 
 COPY set.sh .
