@@ -1,0 +1,9 @@
+aiohttp
+aria2p
+hachoir
+Pillow
+pyrogram
+tgcrypto
+git+https://github.com/ytdl-org/youtube-dl
+hurry.filesize
+async_lru
